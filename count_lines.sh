@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Check if the folder path is provided
 if [ "$#" -ne 1 ]; then
