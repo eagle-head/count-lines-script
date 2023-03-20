@@ -13,13 +13,7 @@ This guide will teach you how to use the provided Bash script to count the total
 2. Copy the provided code into the line_counter.md file.
 3. Save the file and close your text editor.
 4. Open your terminal and navigate to the directory containing the line_counter.md file.
-5. Rename the file to have a .sh extension instead of .md by running the following command:
-
-```sh
-mv line_counter.md line_counter.sh
-```
-
-6. Give the script execute permissions with the following command:
+5. Give the script execute permissions with the following command:
 
 ```sh
 chmod +x line_counter.sh
